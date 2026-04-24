@@ -1,0 +1,10 @@
+Fluxo de trabalho local
+
+1. Definir o diretório que será utilizado no para o projeto
+2. git init . dentro do diretório
+3. git config
+4. git status
+5. git add nome_arquivo
+6. git status
+7. git commit -m "Mensagem Explicativa de Commit"
+8. git log
