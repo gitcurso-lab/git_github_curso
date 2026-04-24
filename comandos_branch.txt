@@ -1,0 +1,3 @@
+git branch
+git switch -c <nome>
+git switch
