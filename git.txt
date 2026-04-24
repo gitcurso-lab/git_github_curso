@@ -1,5 +1,5 @@
 Fluxo de trabalho local
-
+- - ++ __-
 1. Definir o diretório que será utilizado no para o projeto
 2. git init . dentro do diretório
 3. git config
